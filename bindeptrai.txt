@@ -1,0 +1,8 @@
+Giang Vien,GV01,Nguyen Van A,11/2/2020,2023,12,12,
+Giang Vien,GV02,Nguyen Van B,11/2/2020,2023,30,35,
+Giang Vien,GV03,Nguyen Van C,11/27/2020,2023,15,18,
+Giang Vien,GV04,Nguyen Van D,11/26/2020,2023,8,50,
+SinhVien,SV01,Nguyen Thi A,11/30/2020,2023,,,8
+SinhVien,SV02,Nguyen Thi B,11/8/2020,2023,,,6
+SinhVien,SV03,Nguyen Thi C,11/6/2020,2023,,,9
+SinhVien,SV04,Nguyen Thi D,11/2/2020,2023,,,10
